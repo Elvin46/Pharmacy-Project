@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\PharmacyProject2.exe
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\PharmacyProject2.deps.json
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\PharmacyProject2.runtimeconfig.json
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\PharmacyProject2.runtimeconfig.dev.json
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\PharmacyProject2.dll
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\ref\PharmacyProject2.dll
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\bin\Debug\net5.0\PharmacyProject2.pdb
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.AssemblyInfo.cs
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.dll
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\ref\PharmacyProject2.dll
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.pdb
+C:\Users\User\source\repos\PharmacyProject2\PharmacyProject2\obj\Debug\net5.0\PharmacyProject2.genruntimeconfig.cache
