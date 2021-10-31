@@ -46,5 +46,14 @@ namespace PharmacyProject2.Models
             Drug findDrug = _drugs.Find(x => x.Name.ToLower() == name.Trim().ToLower());
             return findDrug;
         }
+        public bool RemoveStudent(int id)
+        {
+            Drug drug = _drugs.Find(x => x.Id == id);
+            if (drug == null)
+                return false;
+
+            _drugs.Remove(drug);
+            return true;
+        }
     }
 }

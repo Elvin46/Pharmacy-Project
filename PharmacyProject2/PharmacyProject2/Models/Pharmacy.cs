@@ -10,9 +10,9 @@ namespace PharmacyProject2.Models
     {
         public string Name { get; }
         public List<DrugType> _drugTypes;
-
         public int Id { get; }
         private static int _counter;
+        public static int cashBox;
         public Pharmacy(string name)
         {
             Name = name;
